@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		// Code Spell Checker
+		"streetsidesoftware.code-spell-checker",
+		// EditorConfig
+		"EditorConfig.EditorConfig",
+		// Prettier
+		"esbenp.prettier-vscode",
+		// EsLint
+		"dbaeumer.vscode-eslint",
+		// markdownlint
+		"DavidAnson.vscode-markdownlint",
+		// JSON schema store
+		"remcohaszing.schemastore"
+	]
+}
